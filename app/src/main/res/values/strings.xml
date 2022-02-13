@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">semana2</string>
+    <string name="Nombre">Escriba su nombre</string>
+    <string name="Enviar">ENVIAR DATOS</string>
+    <string name="MostrarDato">DATO RECIBIDO</string>
+    <string name="Volver">VOLVER </string>
+
+</resources>
